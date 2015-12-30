@@ -1,0 +1,28 @@
+name: playmerecords
+favicon: null
+layout_spectrum: 0.5395244173705578
+typography_spectrum: 0.8628236032091081
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5239918953739107
+  lightness: 0.05167128168977797
+  saturation: 0.2436722950078547
+  rhythmicContrast: 0.5525070319417864
+purpose: []
